@@ -1,0 +1,12 @@
+{
+  "name": "cypherx",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript cipher tool using character shifting.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["cipher", "encryption", "javascript"],
+  "author": "Unknown",
+  "license": "ISC"
+}
