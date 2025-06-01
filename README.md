@@ -1,33 +1,29 @@
-# CypherX
+<h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
 
-CypherX is a lightweight JavaScript tool for performing basic cryptographic transformations such as character shifting and symbol encoding.
+<p align="center">
+  <a href="https://github.com/Dark-Xploit/ITTECHBROS">
+    <img alt="ITTECHBROS docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+  </a>
+</p>
+    
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/ITTECHBROS-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<p/>
 
-## Features
+<p align="center">
+    <strong>1. FORK REPOSITORY</strong>
+  <br>
+    <a href="https://github.com/Dark-Xploit/ITTECHBROS/fork" target="_blank">
+        <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
+    </a>
+</p>
 
-- Dynamic character shifting based on character position.
-- Simple encryption and decryption functions using ASCII manipulation.
-- Minimal dependency, easy to use in any JavaScript environment.
-
-## Usage
-
-Run the script using Node.js:
-
-```bash
-node index.js
-```
-
-## Example
-
-```javascript
-const original = "Hello, World!";
-const mixed = mix(original);
-const unmixed = unmix(mixed);
-
-console.log("Original:", original);
-console.log("Mixed:", mixed);
-console.log("Unmixed:", unmixed);
-```
-
-## License
-
-ISC License.
+<p align="center">
+    <strong>2. SESSION ID & DEPLOYMENTS</strong>
+    <br>
+    <a href="https://ittechbrosbot.vercel.app/" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    </a>
+</p>

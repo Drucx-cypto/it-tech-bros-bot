@@ -1,9 +1,9 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
+  "name": "ITTECHBROS",
+  "description": "ITTECHBROS, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/Dark-Xploit/ITTECHBROS",
   "stack": "container",
   "addons": [
     {
